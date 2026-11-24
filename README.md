@@ -1,7 +1,13 @@
 # Om Agencies — Rooftop Solar EPC & Supreme Solar Water Heaters
 ### Chhatrapati Sambhajinagar (Aurangabad), Maharashtra
 
-Official responsive web application for **Om Agencies** (Proprietorship D. B. Magar, Est. 2010), the highest-rated Rooftop Solar EPC contractor and authorized Supreme Solar Water Heater dealer in Chhatrapati Sambhajinagar.
+[![Live Web App](https://img.shields.io/badge/Live_Site-GitHub_Pages-059669?style=for-the-badge&logo=github)](https://mahajanaaryan069-max.github.io/om-agencies-solar/)
+[![GitHub Repo](https://img.shields.io/badge/Repository-om--agencies--solar-111827?style=for-the-badge&logo=github)](https://github.com/mahajanaaryan069-max/om-agencies-solar)
+[![Rating](https://img.shields.io/badge/Google_Rating-4.9%E2%98%85%20(239%2B)-F59E0B?style=for-the-badge)](https://maps.google.com)
+
+Official production web application for **Om Agencies** (Proprietorship D. B. Magar, Est. 2010), the highest-rated Rooftop Solar EPC contractor and authorized Supreme Solar Water Heater dealer in Chhatrapati Sambhajinagar.
+
+**Live Deployment:** [https://mahajanaaryan069-max.github.io/om-agencies-solar/](https://mahajanaaryan069-max.github.io/om-agencies-solar/)
 
 ---
 
@@ -26,10 +32,11 @@ Official responsive web application for **Om Agencies** (Proprietorship D. B. Ma
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Deployment
 - Pure Vanilla HTML5, CSS3, ES6 JavaScript (Zero heavy runtime dependencies).
 - PWA manifest (`manifest.json`) for offline rooftop accessibility.
-- Optimized for instant deployment to GitHub Pages, Vercel, or Netlify.
+- Hosted with SSL on **GitHub Pages**: [https://mahajanaaryan069-max.github.io/om-agencies-solar/](https://mahajanaaryan069-max.github.io/om-agencies-solar/)
 
 ---
+
 © 2010–2026 Om Agencies, Chhatrapati Sambhajinagar.
