@@ -1,0 +1,16 @@
+{
+  "name": "Om Agencies — Rooftop Solar & Water Heaters",
+  "short_name": "Om Agencies",
+  "start_url": "./#home",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#059669",
+  "description": "Chhatrapati Sambhajinagar's #1 rated Rooftop Solar EPC and Supreme Solar Water Heater dealer.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23059669'><path d='M12 2L3 7v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-9-5zm0 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8z'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
